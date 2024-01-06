@@ -1,0 +1,37 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+.navdiv {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #6F6AF7;
+    color: aliceblue;
+    display:flex;
+    justify-content: space-between;
+    height: 7.5vh;
+}
+.logo {
+    font-family: 'Delius Unicase', cursive;
+    font-size: 31.43px;   
+    margin: 12px 0px 0px 25px ;
+}
+
+.inputsearch{
+    border-radius: 63px;
+    height: 50%;
+    align-content: center ;
+}
+
+.navlist{
+    display: flex;
+    gap: 5rem;
+    font-size: 18px;
+}
+li{
+    list-style-type : none
+}
+.listdev{
+    display: flex;
+    justify-content: center; align-items: center;
+}
